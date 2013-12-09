@@ -1,4 +1,4 @@
-(defproject {{name}} "0.1.0"
+(defproject {{name}} "0.1.0-SNAPSHOT"
   :description "<`1:FIXME: write description`>"
   :url "http://example.com/FIXME"
   :license {:name "GNU GPL v3+"
