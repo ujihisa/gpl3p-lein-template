@@ -10,4 +10,6 @@
               :sanitized (name-to-path name)}]
     (->files data
              ["src/{{sanitized}}/core.clj" (render "core.clj" data)]
-             ["project.clj" (render "project.clj" data)])))
+             ["project.clj" (render "project.clj" data)]
+             ["COPYING" (render "COPYING" data)]
+             ["LICENSE" (render "LICENSE" data)])))
