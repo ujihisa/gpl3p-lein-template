@@ -1,4 +1,4 @@
-(defproject gpl3p/lein-template "0.1.1-SNAPSHOT"
+(defproject gpl3p/lein-template "0.1.1"
   :description "Basically same to the default `lein new` except for the license. GPLv3+."
   :url "https://github.com/ujihisa/gpl3p-lein-template"
   :license {:name "GNU GPL v3+"
