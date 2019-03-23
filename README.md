@@ -8,7 +8,7 @@ FIXME
 
 ## License
 
-Copyright (C) 2013-2019  Tatsuhiro Ujihisa and [other contributors](https://github.com/ujihisa/gpl3p-lein-template/graphs/contributors).
+Copyright (C) 2013-2019  Tatsuhiro Ujihisa and Leandro Doctors.
 
 
 Distributed under the Eclipse Public License, the same as Clojure.
