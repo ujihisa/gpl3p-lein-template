@@ -1,5 +1,7 @@
-(ns {{name}}.core
+(ns {{namespace}}
   (:gen-class))
 
-(defn -main [& args]
-  (prn 'ok))
+(defn -main
+  "I don't do a whole lot ... yet."
+  [& args]
+  (println "Hello, World!"))
