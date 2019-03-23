@@ -7,18 +7,18 @@ the Free Software Foundation, either version 3 of the License, or
 
 This program is distributed in the hope that it will be useful,
 but WITHOUT ANY WARRANTY; without even the implied warranty of
-MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the
 GNU General Public License for more details.
 
 You should have received a copy of the GNU General Public License
-along with this program.  If not, see <http://www.gnu.org/licenses/>.
+along with this program. If not, see <http://www.gnu.org/licenses/>.
 
 Additional permission under GNU GPL version 3 section 7
 
-If you modify this Program, or any covered work, by linking or
-combining it with <`4:name of library`> (or a modified version of that
-library), containing parts covered by the terms of <`5:name of library's license`>, the licensors of this Program grant you
-additional permission to convey the resulting work.  {Corresponding
-Source for a non-source form of such a combination shall include the
-source code for the parts of <`5:name of library`> used as well as that
-of the covered work.}
+If you modify this Program, or any covered work, by linking or combining
+it with Clojure (or a modified version of that library), containing parts
+covered under the same terms as Clojure (currently, the Eclipse Public
+License version 1.0), the licensors of this Program grant you additional
+permission to convey the resulting work. Corresponding Source for a
+non-source form of such a combination shall include the source code for
+the parts of Clojure used as well as that of the covered work.
