@@ -4,7 +4,7 @@
 (def render (renderer "gpl3p"))
 
 (defn gpl3p
-  "FIXME: write documentation"
+  "Leiningen template for GPL3+ projects, with Clojure exception"
   [name]
   (let [data {:name name
               :sanitized (name-to-path name)}]
